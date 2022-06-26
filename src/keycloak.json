@@ -1,0 +1,13 @@
+{
+  "realm": "DemoTest",
+  "auth-server-url": "http://192.168.135.131:8080/",
+  "ssl-required": "external",
+  "resource": "employees",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "qB1gWS0zZ6Ua6d2N2Y8Fugxfj4Vl205S"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
